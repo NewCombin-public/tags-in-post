@@ -1,0 +1,62 @@
+# Copyright (C) 2021 NewCombin
+# This file is distributed under the same license as the Tags in post plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tags in post 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tags-in-post\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-09-15T18:14:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: tags-in-post\n"
+
+#. Plugin Name of the plugin
+msgid "Tags in post"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://newcombin.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin add a shortcode that add a tag cloud with configured prefered tags."
+msgstr ""
+
+#. Author of the plugin
+msgid "NewCombin"
+msgstr ""
+
+#: admin/class-tags-in-post-admin.php:98
+#: admin/class-tags-in-post-admin.php:99
+msgid "Configuration"
+msgstr ""
+
+#: admin/class-tags-in-post-admin.php:109
+#: admin/class-tags-in-post-admin.php:110
+msgid "Featured Tags"
+msgstr ""
+
+#: admin/class-tags-in-post-admin.php:125
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/tags-in-post-admin-display.php:16
+msgid "Featured tags"
+msgstr ""
+
+#: admin/partials/tags-in-post-admin-display.php:17
+msgid "Select the tags that will have priority to display in the post. The last are priority."
+msgstr ""
+
+#: admin/partials/tags-in-post-admin-display.php:28
+msgid "Tags"
+msgstr ""
+
+#: admin/partials/tags-in-post-admin-display.php:51
+msgid "Save all changes"
+msgstr ""
